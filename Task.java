@@ -10,4 +10,3 @@ public class Task {
     public int getCpuCycles() {
         return cpuCycles;
     }
-}
