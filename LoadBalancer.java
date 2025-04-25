@@ -85,3 +85,4 @@ public class LoadBalancer {
             System.out.println("Error writing to metrics.txt!");
         }
     }
+}
